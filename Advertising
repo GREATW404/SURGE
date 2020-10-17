@@ -72,7 +72,6 @@ URL-REGEX,^https?+:\/\/(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(?:25[0-5]|2
 URL-REGEX,^https?+:\/\/(?:(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(?:25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\/ting\/preload\/
 URL-REGEX,^https?+:\/\/(?>101\.201\.175\.228|182\.92\.251\.113)\/promotion\/(?:feed_)?+display
 URL-REGEX,^https?+:\/\/(?>api|b)\.zhuishushenqi\.com\/advert
-URL-REGEX,^https?+:\/\/(?>heic|gw)\.alicdn\.com\/tfs\/tb1.+?-\d{4}-\d{4}\.jpg_1200x1200q90\.jpg_\.\w{3
 URL-REGEX,^https?+:\/\/(?>promo|api)\.xueqiu\.com\/promotion\/(?:feed_)?+display
 URL-REGEX,^https?+:\/\/.+?\.(?>amemv|musical|snssdk|tiktokv)\.(?>com|ly)\/(?>api|motor)\/ad\/
 URL-REGEX,^https?+:\/\/.+?\.58cdn\.com\.cn\/brandads\/
@@ -102,11 +101,6 @@ URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/api\/.+?ad
 URL-REGEX,^https?+:\/\/\w+?\.youtube\.com\/p(?>agead|tracking)
 URL-REGEX,^https?+:\/\/a\.apicloud\.com\/start_page\/
 URL-REGEX,^https?+:\/\/a\.qiumibao\.com\/activities\/config\.php
-URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alibaba\.advertisementservice\.getadv
-URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/
-URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/
-URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/
-URL-REGEX,^https?+:\/\/acs\.m\.taobao\.com\/gw\/mtop\.trip\.activity\.querytmsresources\/
 URL-REGEX,^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/show\.do
 URL-REGEX,^https?+:\/\/act\.vip\.iqiyi\.com\/interact\/api\/v2\/show
 URL-REGEX,^https?+:\/\/activity2\.api\.ofo\.com\/ofo\/api\/v2\/ads
@@ -217,14 +211,10 @@ URL-REGEX,^https?+:\/\/gateway\.shouqiev\.com\/fsda\/app\/bootimage\.json
 URL-REGEX,^https?+:\/\/gg\w+?\.cmvideo\.cn\/v\d\/iflyad\/
 URL-REGEX,^https?+:\/\/ggic\d?\.cmvideo\.cn\/ad\/
 URL-REGEX,^https?+:\/\/ggx\.cmvideo\.cn\/request\/
-URL-REGEX,^https?+:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.tmall\.wireless
 URL-REGEX,^https?+:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/car-rest\/webservice\/passenger\/recommendads
 URL-REGEX,^https?+:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passenger-token\/leachtoken\/webservice\/homepage\/queryads
 URL-REGEX,^https?+:\/\/gw\.aihuishou\.com\/app-portal\/home\/getadvertisement
-URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/.+?\d{4}-\d{4}\/[a-z]{3}$
-URL-REGEX,^https?+:\/\/gw\.alicdn\.com\/tfs\/tb1.+?750-\d{4}
 URL-REGEX,^https?+:\/\/gw\.csdn\.net\/cms-app\/v2\/home_page\/open_advertisement
-URL-REGEX,^https?+:\/\/heic\.alicdn\.com\/tps\/i4\/.+?\.jpg_1200x1200q90\.jpg_\.heic$
 URL-REGEX,^https?+:\/\/hk\.app\.joox\.com\/billsrv\/clientbatchadreport
 URL-REGEX,^https?+:\/\/hk\.app\.joox\.com\/retrieval\/getad
 URL-REGEX,^https?+:\/\/i\.ys7\.com\/api\/ads
